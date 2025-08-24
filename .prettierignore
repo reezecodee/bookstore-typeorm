@@ -1,0 +1,12 @@
+# Folder hasil build
+build
+dist
+.next
+
+# Folder dependensi
+node_modules
+
+# File lock
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
